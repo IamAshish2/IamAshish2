@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Silent-Buddha](https://github.com/IamAshish2/Silent-Buddha)
 
-- 🌱 I’m currently learning **.NET,redux e.t.c.**
+- 🌱 I’m currently learning **.NET,zustand e.t.c.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IamAshish2](https://github.com/IamAshish2)
 
-- 💬 Ask me about **react,react native, firebase.**
+- 💬 Ask me about **react,react native, asp dot net**
 
 - 📫 How to reach me **karkiaashish9899@gmail.com**
 
